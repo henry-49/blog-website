@@ -7,6 +7,7 @@
     display: flex;
     align-items: center;
     font-family: 'Josefin Sans', sans-serif;
+    z-index: 999;
 }
 
 .topLeft,.topRight {
@@ -34,10 +35,6 @@
     height: 40px;
     border-radius: 50%;
     object-fit: cover;
-    -webkit-border-radius: 50%;
-    -moz-border-radius: 50%;
-    -ms-border-radius: 50%;
-    -o-border-radius: 50%;
 }
 
 .topList {
