@@ -16,7 +16,7 @@
     flex: 3;
     display: flex;
     align-items: center;
-    justify-self: center;
+    justify-content: center;
 }
 
 .topIcon {
