@@ -6,8 +6,8 @@ export default function SideBar() {
         <div className="sidebarItem">
              <span className="sidebarTitle">ABOUT ME</span>
              <img 
-                  src="#"
-                alt="" className="sidebarImg"  />
+                src="#"
+                alt="Sidebar Image" className="sidebarImg"  />
                 <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
         </div>
         <div className="sidebarItem">  
